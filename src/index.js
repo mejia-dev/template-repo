@@ -12,5 +12,5 @@ function handleSampleForm() {
 }
 
 window.addEventListener("load", function() {
-  document.getElementById("sample-form").addEventListener("submit", handleTriangleForm);
+  document.getElementById("sample-form").addEventListener("submit", handleSampleForm);
 });
