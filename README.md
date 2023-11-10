@@ -2,7 +2,7 @@
 
 #### (Brief Description of Application)
 
-#### By (Your Name Here)
+#### By github.com/mejia-dev
 
 ## Technologies Used
 
@@ -19,6 +19,8 @@
 
 ## Setup/Installation Requirements
 
+SETUP A TEMPLATE: -----
+
 Modify the following items before initializing anything else:
 * webpack.config.js
   * Line 24: Update project name
@@ -26,7 +28,6 @@ Modify the following items before initializing anything else:
   * Line 2: Update project name
 
 Run the following commands from GitBash:
-* Initialize npm: $ npm init y
 * Install packages: $ npm install
 * Build the project using webpack: $ npm run build
 
@@ -35,10 +36,22 @@ Optionally, run the following commands:
 * Run ESLint against the src folder: $ npm run lint
 * Run Jest tests using: $ npm run test
 
+
+FINAL SETUP FOR PROJECT: -----
+
+Option A:
+* Navigate to https://mejia-dev.github.io/project-name/ in your browser of choice
+
+Option B:
+* Clone this repository to your desktop (from the Git Bash console, run "git clone https://github.com/mejia-dev/project-name.git" without quotes)
+* Install Modules: From the Git Bash console, run "npm install" without quotes.
+* Build Distribution: From the Git Bash console, run "npm run build" without quotes.
+* Launch Webserver: From the Git Bash console, run "npm run start" without quotes.
+
+
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* none
 
 ## License
 
