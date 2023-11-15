@@ -45,6 +45,7 @@ Option A:
 Option B:
 * Clone this repository to your desktop (from the Git Bash console, run "git clone https://github.com/mejia-dev/project-name.git" without quotes)
 * Install Modules: From the Git Bash console, run "npm install" without quotes.
+* Run Jest Tests: From the Git Bash console, run "npm run test" without quotes.
 * Build Distribution: From the Git Bash console, run "npm run build" without quotes.
 * Launch Webserver: From the Git Bash console, run "npm run start" without quotes.
 
